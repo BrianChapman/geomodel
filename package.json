@@ -11,7 +11,7 @@
     { "type" : "Apache-2.0", "url" : "https://raw.github.com/danieldkim/geomodel/master/README.md" }
   ],
   "dependencies"  : {
-    "underscore"    : "~1.4.3"
+    "underscore"    : "~1.12.1"
   },
   "devDependencies": {
     "log4js" : "~0.5.6"
